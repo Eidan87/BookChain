@@ -1,0 +1,221 @@
+// Ejemplo 1
+const libro1 = new Block(Date.now(), [], "La Odisea", "Homero", "Canto I: La Consulta con Atenea\n... (contenido del libro)", 100, cutreCoin.getUltimoBloque().hash);
+cutreCoin.agregarBloque(libro1);
+
+// Ejemplo 2
+const libro2 = new Block(Date.now(), [], "1984", "George Orwell", "Parte I: El Gran Hermano\n... (contenido del libro)", 150, cutreCoin.getUltimoBloque().hash);
+cutreCoin.agregarBloque(libro2);
+
+// Ejemplo 3
+const libro3 = new Block(Date.now(), [], "Cien años de soledad", "Gabriel García Márquez", "Capítulo 1: La fundación de Macondo\n... (contenido del libro)", 200, cutreCoin.getUltimoBloque().hash);
+cutreCoin.agregarBloque(libro3);
+
+// Ejemplo 4
+const libro4 = new Block(Date.now(), [], "Don Quijote de la Mancha", "Miguel de Cervantes", "Capítulo I: Que trata de la condición y ejercicio del famoso hidalgo Don Quijote de la Mancha\n... (contenido del libro)", 120, cutreCoin.getUltimoBloque().hash);
+cutreCoin.agregarBloque(libro4);
+
+// Ejemplo 5
+const libro5 = new Block(Date.now(), [], "Orgullo y prejuicio", "Jane Austen", "Capítulo 1: Es una verdad mundialmente reconocida que un hombre soltero, poseedor de una gran fortuna, necesita esposa.\n... (contenido del libro)", 180, cutreCoin.getUltimoBloque().hash);
+cutreCoin.agregarBloque(libro5);
+
+// Ejemplo 6
+const libro6 = new Block(Date.now(), [], "Harry Potter y la piedra filosofal", "J.K. Rowling", "Capítulo 1: El niño que vivió\n... (contenido del libro)", 250, cutreCoin.getUltimoBloque().hash);
+cutreCoin.agregarBloque(libro6);
+
+// Ejemplo 7
+const libro7 = new Block(Date.now(), [], "Matar a un ruiseñor", "Harper Lee", "Capítulo 1: Cuando yo era pequeño, mi abuelo me dio dos cosas que yo he valorado mucho durante toda mi vida.\n... (contenido del libro)", 150, cutreCoin.getUltimoBloque().hash);
+cutreCoin.agregarBloque(libro7);
+
+// Ejemplo 8
+const libro8 = new Block(Date.now(), [], "El señor de los anillos", "J.R.R. Tolkien", "Libro I, Capítulo 1: Una fiesta inesperada\n... (contenido del libro)", 300, cutreCoin.getUltimoBloque().hash);
+cutreCoin.agregarBloque(libro8);
+
+// Ejemplo 9
+const libro9 = new Block(Date.now(), [], "Crimen y castigo", "Fyodor Dostoyevsky", "Parte 1, Capítulo 1: En el principio del mes de julio, durante una calurosa tarde de verano, un joven salió caminando desde la habitación que alquilaba en S... (contenido del libro)", 120, cutreCoin.getUltimoBloque().hash);
+cutreCoin.agregarBloque(libro9);
+
+// Ejemplo 10
+const libro10 = new Block(Date.now(), [], "El principito", "Antoine de Saint-Exupéry", "Capítulo 1: Cuando yo tenía seis años vi en un libro sobre la selva virgen que se titulaba “Historias vividas” una magnífica lámina. Representaba una serpi... (contenido del libro)", 200, cutreCoin.getUltimoBloque().hash);
+cutreCoin.agregarBloque(libro10);
+
+// Ejemplo 11
+const libro11 = new Block(Date.now(), [], "Anna Karenina", "Leo Tolstoy", "Parte 1, Capítulo 1: Todas las familias dichosas se parecen; pero cada familia desdichada tiene un motivo particular para sentirse desdichada.\n... (contenido del libro)", 180, cutreCoin.getUltimoBloque().hash);
+cutreCoin.agregarBloque(libro11);
+
+// Ejemplo 12
+const libro12 = new Block(Date.now(), [], "Hamlet", "William Shakespeare", "Acto I, Escena 1: El guardia toma la guardia en la plataforma del castillo de Elsinore.\n... (contenido del libro)", 150, cutreCoin.getUltimoBloque().hash);
+cutreCoin.agregarBloque(libro12);
+
+// Ejemplo 13
+const libro13 = new Block(Date.now(), [], "Moby Dick", "Herman Melville", "Capítulo 1: Llámame Ismael.\n... (contenido del libro)", 160, cutreCoin.getUltimoBloque().hash);
+cutreCoin.agregarBloque(libro13);
+
+// Ejemplo 14
+const libro14 = new Block(Date.now(), [], "En busca del tiempo perdido", "Marcel Proust", "Capítulo 1: Por mucho tiempo me acosté temprano.\n... (contenido del libro)", 220, cutreCoin.getUltimoBloque().hash);
+cutreCoin.agregarBloque(libro14);
+
+// Ejemplo 15
+const libro15 = new Block(Date.now(), [], "Los miserables", "Victor Hugo", "Libro I, Capítulo 1: Un Justiciero\n... (contenido del libro)", 170, cutreCoin.getUltimoBloque().hash);
+cutreCoin.agregarBloque(libro15);
+
+// Ejemplo 16
+const libro16 = new Block(Date.now(), [], "La metamorfosis", "Franz Kafka", "Parte 1: Gregor Samsa se despertó una mañana y se encontró convertido en un monstruoso insecto.\n... (contenido del libro)", 130, cutreCoin.getUltimoBloque().hash);
+cutreCoin.agregarBloque(libro16);
+
+// Ejemplo 17
+const libro17 = new Block(Date.now(), [], "El gran Gatsby", "F. Scott Fitzgerald", "Capítulo 1: En mi más joven y vulnerable época, mi padre me dio un consejo que he estado dándole vueltas desde entonces.\n... (contenido del libro)", 190, cutreCoin.getUltimoBloque().hash);
+cutreCoin.agregarBloque(libro17);
+
+// Ejemplo 18
+const libro18 = new Block(Date.now(), [], "Ulises", "James Joyce", "Episodio 1: Telemaco\n... (contenido del libro)", 200, cutreCoin.getUltimoBloque().hash);
+cutreCoin.agregarBloque(libro18);
+
+// Ejemplo 19
+const libro19 = new Block(Date.now(), [], "La divina comedia", "Dante Alighieri", "Inferno, Canto I: Nel mezzo del cammin di nostra vita\n... (contenido del libro)", 140, cutreCoin.getUltimoBloque().hash);
+cutreCoin.agregarBloque(libro19);
+
+// Ejemplo 20
+const libro20 = new Block(Date.now(), [], "El nombre de la rosa", "Umberto Eco", "Primera mañana\n... (contenido del libro)", 160, cutreCoin.getUltimoBloque().hash);
+cutreCoin.agregarBloque(libro20);
+
+// Ejemplo 21
+const libro21 = new Block(Date.now(), [], "Las aventuras de Tom Sawyer", "Mark Twain", "Capítulo 1: Tom empieza a buscar tesoros\n... (contenido del libro)", 180, cutreCoin.getUltimoBloque().hash);
+cutreCoin.agregarBloque(libro21);
+
+// Ejemplo 22
+const libro22 = new Block(Date.now(), [], "Mujercitas", "Louisa May Alcott", "Parte 1, Capítulo 1: Juego de Navidad\n... (contenido del libro)", 150, cutreCoin.getUltimoBloque().hash);
+cutreCoin.agregarBloque(libro22);
+
+// Ejemplo 23
+const libro23 = new Block(Date.now(), [], "Drácula", "Bram Stoker", "Capítulo 1: Jonathan Harker's Journal\n... (contenido del libro)", 200, cutreCoin.getUltimoBloque().hash);
+cutreCoin.agregarBloque(libro23);
+
+// Ejemplo 24
+const libro24 = new Block(Date.now(), [], "El retrato de Dorian Gray", "Oscar Wilde", "Capítulo 1: El retrato\n... (contenido del libro)", 170, cutreCoin.getUltimoBloque().hash);
+cutreCoin.agregarBloque(libro24);
+
+// Ejemplo 25
+const libro25 = new Block(Date.now(), [], "Sherlock Holmes: Estudio en escarlata", "Arthur Conan Doyle", "Parte 1, Capítulo 1: El Sr. Sherlock Holmes\n... (contenido del libro)", 160, cutreCoin.getUltimoBloque().hash);
+cutreCoin.agregarBloque(libro25);
+
+// Ejemplo 26
+const libro26 = new Block(Date.now(), [], "El guardián entre el centeno", "J.D. Salinger", "Capítulo 1: Si de verdad les interesa lo que voy a contarles, lo primero que querrán saber es dónde nací, cómo fue todo ese rollo de mi infancia, qué ... (contenido del libro)", 190, cutreCoin.getUltimoBloque().hash);
+cutreCoin.agregarBloque(libro26);
+
+// Ejemplo 27
+const libro27 = new Block(Date.now(), [], "El viejo y el mar", "Ernest Hemingway", "Capítulo 1: Él era un viejo que pescaba solo en un bote en el Golfo en el verano, y hacía ochenta y cuatro días que no cogía un pez.\n... (contenido del libro)", 140, cutreCoin.getUltimoBloque().hash);
+cutreCoin.agregarBloque(libro27);
+
+// Ejemplo 28
+const libro28 = new Block(Date.now(), [], "La isla del tesoro", "Robert Louis Stevenson", "Capítulo 1: El viejo lobo de mar\n... (contenido del libro)", 170, cutreCoin.getUltimoBloque().hash);
+cutreCoin.agregarBloque(libro28);
+
+// Ejemplo 29
+const libro29 = new Block(Date.now(), [], "Las mil y una noches", "Anónimo", "Noche 1: El mercader y el demonio\n... (contenido del libro)", 210, cutreCoin.getUltimoBloque().hash);
+cutreCoin.agregarBloque(libro29);
+
+// Ejemplo 30
+const libro30 = new Block(Date.now(), [], "La guerra y la paz", "León Tolstói", "Parte 1, Capítulo 1: Yousupov regresa a casa\n... (contenido del libro)", 250, cutreCoin.getUltimoBloque().hash);
+cutreCoin.agregarBloque(libro30);
+
+// Ejemplo 31
+const libro31 = new Block(Date.now(), [], "La leyenda de Sleepy Hollow", "Washington Irving", "Parte 1, Capítulo 1: Una escuela rural\n... (contenido del libro)", 140, cutreCoin.getUltimoBloque().hash);
+cutreCoin.agregarBloque(libro31);
+
+// Ejemplo 32
+const libro32 = new Block(Date.now(), [], "El retrato de una dama", "Henry James", "Capítulo 1: Bajo el cielo de Londres\n... (contenido del libro)", 180, cutreCoin.getUltimoBloque().hash);
+cutreCoin.agregarBloque(libro32);
+
+// Ejemplo 33
+const libro33 = new Block(Date.now(), [], "La vuelta al mundo en 80 días", "Julio Verne", "Capítulo 1: En el que Phileas Fogg y Passepartout reciben una predicción desfavorable\n... (contenido del libro)", 160, cutreCoin.getUltimoBloque().hash);
+cutreCoin.agregarBloque(libro33);
+
+// Ejemplo 34
+const libro34 = new Block(Date.now(), [], "La naranja mecánica", "Anthony Burgess", "Parte 1, Capítulo 1: El Moloko Plus\n... (contenido del libro)", 170, cutreCoin.getUltimoBloque().hash);
+cutreCoin.agregarBloque(libro34);
+
+// Ejemplo 35
+const libro35 = new Block(Date.now(), [], "Frankenstein", "Mary Shelley", "Capítulo 1: Cartas\n... (contenido del libro)", 150, cutreCoin.getUltimoBloque().hash);
+cutreCoin.agregarBloque(libro35);
+
+// Ejemplo 36
+const libro36 = new Block(Date.now(), [], "Romeo y Julieta", "William Shakespeare", "Acto I, Escena 1: Una calle de Verona\n... (contenido del libro)", 160, cutreCoin.getUltimoBloque().hash);
+cutreCoin.agregarBloque(libro36);
+
+// Ejemplo 37
+const libro37 = new Block(Date.now(), [], "La letra escarlata", "Nathaniel Hawthorne", "Capítulo 1: La prisión de puerta de madera\n... (contenido del libro)", 180, cutreCoin.getUltimoBloque().hash);
+cutreCoin.agregarBloque(libro37);
+
+// Ejemplo 38
+const libro38 = new Block(Date.now(), [], "El proceso", "Franz Kafka", "Capítulo 1: Alguien debió de haber calumniado a Josef K., porque, sin haber hecho nada malo, una mañana fue detenido.\n... (contenido del libro)", 140, cutreCoin.getUltimoBloque().hash);
+cutreCoin.agregarBloque(libro38);
+
+// Ejemplo 39
+const libro39 = new Block(Date.now(), [], "El amor en los tiempos del cólera", "Gabriel García Márquez", "Capítulo 1: El matrimonio de Lotario Thugut y Rosalba Echenique\n... (contenido del libro)", 200, cutreCoin.getUltimoBloque().hash);
+cutreCoin.agregarBloque(libro39);
+
+// Ejemplo 40
+const libro40 = new Block(Date.now(), [], "La hoguera de las vanidades", "Tom Wolfe", "Parte 1, Capítulo 1: Sherman, en la calle\n... (contenido del libro)", 170, cutreCoin.getUltimoBloque().hash);
+cutreCoin.agregarBloque(libro40);
+
+
+
+/* 
+
+// Función para generar contenido extenso (Lorem Ipsum manual)
+function generarContenidoExtenso(parrafos) {
+    const loremIpsumText = `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin feugiat tellus sit amet odio luctus, quis iaculis arcu pulvinar. Sed auctor lorem quis lacinia elementum. Nulla facilisi. Nam euismod urna in sapien feugiat eleifend. Nullam in nunc sed enim rhoncus facilisis. Integer scelerisque condimentum purus, ac vestibulum felis volutpat id. Ut vel imperdiet erat. Phasellus tincidunt ultricies lorem, nec auctor justo scelerisque ac. Sed dignissim vel ex vel convallis. Fusce non efficitur mi. Donec id iaculis purus. Vivamus eget felis nec elit suscipit tempor. Suspendisse potenti. Ut eget eros et eros efficitur rhoncus ut sit amet ligula.
+
+    Sed a risus sed risus sollicitudin lacinia ut vel sapien. Ut sit amet leo quis justo vulputate maximus. In hac habitasse platea dictumst. Cras eu ex non libero consequat convallis. Quisque feugiat tincidunt elit, sit amet cursus metus lacinia at. Nullam interdum malesuada orci, ac faucibus mi. Maecenas suscipit lorem ac nisi blandit, at euismod sem fermentum. Sed elementum fermentum nisi, sed ultricies leo interdum at. Integer pretium lacinia sodales. Cras a arcu sit amet justo varius sodales vel non lectus. Sed sed eros eu nulla suscipit bibendum. Fusce sed tincidunt eros, nec vestibulum nunc. Mauris faucibus nisi ut consectetur pharetra. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec auctor felis quis nisl auctor, et consequat lorem scelerisque. Fusce semper odio ac nisi pretium, in pharetra sem dapibus.
+
+    Duis convallis, ligula a eleifend dignissim, sem odio tempor est, eget facilisis lorem felis eget sem. Morbi nec purus ut magna pharetra tincidunt. Nulla ullamcorper diam vitae venenatis bibendum. Maecenas consequat luctus mi, eget auctor nunc. Duis accumsan auctor velit, eget malesuada libero auctor sed. Proin malesuada justo nec justo egestas, sed gravida odio sollicitudin. Proin auctor ut ligula et ultricies. Phasellus congue ac risus eu malesuada. Aliquam convallis justo at augue bibendum, sed consectetur lorem congue. Sed sed justo ipsum. Nullam consequat lobortis libero ac tempor. In a ex ex.
+
+    Pellentesque quis tortor eget tortor euismod elementum sed sed libero. Suspendisse eu mollis nisi. Nulla ultrices lobortis nulla ac convallis. Nam eleifend mi ut arcu luctus ultricies. Sed maximus felis vel lorem fringilla, sed pretium dolor sodales. Morbi ut velit sit amet orci volutpat ultrices. In hac habitasse platea dictumst. Nulla accumsan tellus sit amet velit commodo, sed rutrum magna interdum. Nam vitae lacinia velit. Nunc auctor odio sit amet felis iaculis, non gravida quam ullamcorper. Suspendisse nec faucibus velit. Nam et velit et nisi feugiat dignissim. Cras scelerisque est et nulla pretium, id tempor velit interdum. Quisque at arcu sit amet libero scelerisque sodales ac eget turpis.`;
+
+    let contenido = '';
+    for (let i = 0; i < parrafos; i++) {
+        contenido += loremIpsumText + '\n\n';
+    }
+    return contenido.trim(); // Elimina espacios en blanco al inicio y final
+}
+
+// En tu función generarDatosAleatorios(), ajustas el contenidoLibro con contenido generado
+function generarDatosAleatorios() {
+    const timestamp = Date.now();
+    const transactions = [];
+    const tituloLibro = `Libro_${timestamp}`;
+    const autorLibro = `Autor_${timestamp}`;
+    const contenidoLibro = generarContenidoExtenso(1000); // Genera 10 párrafos de Lorem Ipsum
+    const cantidad = Math.floor(Math.random() * 100000) + 1;
+
+    return new Block(
+        cutreCoin.contarEslabones(),
+        timestamp,
+        transactions,
+        tituloLibro,
+        autorLibro,
+        contenidoLibro,
+        cantidad,
+        cutreCoin.getUltimoBloque().hash,
+        '',
+        "uploads/imagenManifiesto.jpg"
+    );
+}
+
+// Función para generar múltiples bloques
+function generarBloques(cantidad) {
+    for (let i = 0; i < cantidad; i++) {
+        
+        setTimeout(function() {
+        const nuevoBloque = generarDatosAleatorios();
+        cutreCoin.agregarBloque(nuevoBloque);
+          }, 10000);
+    }
+}
+
+// Generar 1000 bloques de ejemplo (ajustar según necesidad)
+generarBloques(10);
+
+console.log('Generación de bloques completada.');
+
+ */
